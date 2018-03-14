@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/pj/Proj/NuCivic/repos/third/node_modules/apostrophe/lib/modules/apostrophe-pages'
+let g:netrw_dirhist_2='/home/pj/Proj/NuCivic/repos/HorsephotosWebSite/public/js/components'
+let g:netrw_dirhist_3='/home/pj/Proj/NuCivic/repos/ga_gbpw/config/modules/custom/react_dashboard/app'
